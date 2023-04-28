@@ -3,7 +3,7 @@
 }
 
 
-.child{
+.parent .child{
   color: blue;
 }
 
